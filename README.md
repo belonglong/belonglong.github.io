@@ -1,2 +1,2 @@
 # belonglong.github.io
-This is a repo for a practice website.
+This repo is for hosting a test website for a fast food restaurant.
